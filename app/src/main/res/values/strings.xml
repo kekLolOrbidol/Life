@@ -1,0 +1,12 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="glider">Glider</string>
+    <string name="pulsar">pulsar</string>
+    <string name="Stop">Stop</string>
+    <string name="Play">Play</string>
+    <string name="Pause">Pause</string>
+    <string name="app_name">Life</string>
+    <string name="nbstep">nbStep</string>
+    <string name="Info">Plus d\'Infos</string>
+</resources>
